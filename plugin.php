@@ -1,19 +1,31 @@
 <?php
 /**
- * ${FILE_NAME}
+ * plugin.php
  * User: vagenas
  * Date: 9/11/14
  * Time: 9:51 PM
  *
  * @author Panagiotis Vagenas <pan.vagenas@gmail.com>
- * @copyright 9/11/14 XDaRk.eu <xdark.eu@gmail.com>
- * @link http://xdark.eu
+ * @copyright 2015 Panagiotis Vagenas <pan.vagenas@gmail.com>
+ */
+
+/**
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <https://www.gnu.org/licenses/gpl-3.0.txt>.
  */
 
 /* -- WordPress® --------------------------------------------------------------------------------------------------------------------------
 
-Version: 150120
-Stable tag: 150120
+Version: 150521
+Stable tag: 150521
 Tested up to: 4.2.2
 Requires at least: 3.5.1
 
